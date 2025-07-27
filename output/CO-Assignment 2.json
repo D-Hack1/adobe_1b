@@ -1,0 +1,115 @@
+{
+  "title": "ICS122 Computer Organization",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Course Instructor: Dr. Goutam Mali",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "add $t0, $t1, $t2",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "lw $t3, 8($t4)",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "sw $t5, 12($t6)",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "If an ALU operation takes 2 ns, memory access takes 10 ns, and register",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "A processor has a 2-level cache hierarchy. Level-1 cache has a hit rate of",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "90%, and Level-2 cache has a hit rate of 95%. The main memory access",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "time is 100 ns. If Level-1 cache access time is 2 ns and Level-2 cache",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "access time is 10 ns, compute the average memory access time (AMAT).",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "table.",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Consider a CPU with a clock rate of 3 GHz. If a program consists of 30%",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "load/store instructions (taking 5 cycles each), 50% ALU operations",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "(taking 4 cycles each), and 20% branch instructions (taking 3 cycles",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "each), calculate the average CPI and execution time for a program with 1",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A 5-stage pipeline (IF, ID, EX, MEM, WB) is used to execute a program.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "lw $t1, 0($t2)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "add $t3, $t1, $t4",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "sw $t3, 4($t5)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A processor with a cache system has a miss penalty of 50 cycles and a",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "cache miss rate of 3%. If the processor runs at 2 GHz, calculate the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "A direct-mapped cache has 64 blocks, and each block can store 16 words.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The memory address is 32 bits. Determine the number of bits used for the",
+      "page": 1
+    }
+  ]
+}

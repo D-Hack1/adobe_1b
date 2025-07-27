@@ -1,0 +1,100 @@
+{
+  "title": "IEC121 Digital Design and Electric Circuits",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Design a three-bit up/down Asynchronous counter using T flip-flops. It should include a control",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "input called Up/Down. If Up/Down = 0, then the circuit should behave as an up-counter. If",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Up/Down = 1, then the circuit should behave as a down-counter.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "The circuit in Figure below looks like a counter. What is the counting sequence of this circuit?",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Given a 100-MHz clock signal, derive a circuit using T flip-flops to generate 50-MHz and 25MHz",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "clock signals. Draw a timing diagram for all three clock signals, assuming no delays.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Draw the circuit of a 4-bit asynchronous Down counter using D flip-flops.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Draw the circuit of a Mod-8 synchronous counter using D flip-flops. Show how you will realize a",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Mod-8 Ring Counter using this counter and an additional combinational block.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Design a Modulo-7 synchronous counter using D flip-flops with a modification that the counting",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "starts from 1 rather than 0.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Designafour-bit synchronous counter with parallel load. Use T flip-flops, instead of the D f lip-",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "flops.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "A PQ flip-flop has four operations, no change, clear to 0, set 1 and toggle, when inputs P and Q",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "are 01, 00, 11 and 10, respectively.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Find the characteristic Equation of the flip-flop.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "Convert the flip-flop to a D flip-flop.",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "10. Using positive edge triggered D flip-flop, design a synchronous counter which counts the",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "following sequence 000, 111, 110, 101, 100, 011, 010, 001, 000.",
+      "page": 0
+    }
+  ]
+}
